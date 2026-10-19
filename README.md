@@ -30,14 +30,12 @@
    ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)  
    ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) 
    ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-   ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) 
    ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) 
    ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
 
 - ### Database
    ![MySQL](https://img.shields.io/badge/Mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-   ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) 
-
+  
 - ### Analysis Tools
    ![Power Bi](https://img.shields.io/badge/Power_bi-F2C811?style=flat&logo=Powerbi&logoColor=black)
    ![Tableau](https://img.shields.io/badge/Tableau-%23150458.svg?style=flat&logo=Tableau&logoColor=white) 
@@ -53,7 +51,6 @@
 - ### Cloud Tools
    ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
    ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
-   ![Oracle_Cloud](https://img.shields.io/badge/Oracle_Cloud-F2C811?style=flat&logo=OracleCloud&logoColor=black)
 
  
    
